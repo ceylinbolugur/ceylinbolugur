@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ceylinbolugur
+- 👀 I’m interested in data science recently
+- 🌱 I’m currently learning python
+- 📫 How to reach me ceylinbolugurx@hotmail.com 
