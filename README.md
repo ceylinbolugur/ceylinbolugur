@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceylinbolugur
-- 🤖 I'm studying mechatronics engineering and having a double major with electrical and electronics engineering
-- 👀 I’m interested in Battery Management Systems and Automotive Industry recently
-- 🌱 I’m currently learning BMS algorithms, Fuzzy Logic Controllers
+- 🤖 I'm a mechatronics engineer and had a double major with electrical and electronics engineering
+- 👀 I’m working in Automotive Industry and into Electrical Vehicles 
+- 🌱 I’m currently learning how to build an AI agent
 - 📫 How to reach me ceylinbolugurx@hotmail.com
 
